@@ -41,3 +41,9 @@ header {
     transform: (-50%, 0);
 }
 
+section {
+    display: flex;
+    align-items:flex-end;
+    justify-content:center;
+}
+
